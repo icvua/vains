@@ -1,0 +1,9 @@
+# Hashes of file build rules.
+f04de9523442649d74a2314df8b7eae7 CMakeFiles/py
+9b1e1194569f1a1f645e8e6c9a4c9e16 py/python/classworks/DarkRenamer.pyc
+92c2c4e4c9d7affc31c51dfa24d1946d py/python/classworks/bulls_and_cows.pyc
+9ea87e3865b8032cd3d31e54d1855d82 py/python/classworks/file_csv_transfer.pyc
+d9dbe944391afbe81e09af48a118054e py/python/classworks/file_relocater.pyc
+8e4b34eb15ad4df8dd746b8771482b2a py/python/classworks/file_transfer.pyc
+63d438bef2d3ce4c2aec8e6148bc2a89 py/python/classworks/password_generator.pyc
+473db0af00f28600af4b06d74f9ea002 py/python/classworks/to_do_list.pyc

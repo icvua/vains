@@ -1,0 +1,15 @@
+/home/rapa/packages/jaehyukLee/1.0.1/platform-linux/python/./python/classworks/DarkRenamer.py
+/home/rapa/packages/jaehyukLee/1.0.1/platform-linux/python/./python/classworks/DarkRenamer.pyc
+/home/rapa/packages/jaehyukLee/1.0.1/platform-linux/python/./python/classworks/bulls_and_cows.py
+/home/rapa/packages/jaehyukLee/1.0.1/platform-linux/python/./python/classworks/bulls_and_cows.pyc
+/home/rapa/packages/jaehyukLee/1.0.1/platform-linux/python/./python/classworks/file_csv_transfer.py
+/home/rapa/packages/jaehyukLee/1.0.1/platform-linux/python/./python/classworks/file_csv_transfer.pyc
+/home/rapa/packages/jaehyukLee/1.0.1/platform-linux/python/./python/classworks/file_relocater.py
+/home/rapa/packages/jaehyukLee/1.0.1/platform-linux/python/./python/classworks/file_relocater.pyc
+/home/rapa/packages/jaehyukLee/1.0.1/platform-linux/python/./python/classworks/file_transfer.py
+/home/rapa/packages/jaehyukLee/1.0.1/platform-linux/python/./python/classworks/file_transfer.pyc
+/home/rapa/packages/jaehyukLee/1.0.1/platform-linux/python/./python/classworks/password_generator.py
+/home/rapa/packages/jaehyukLee/1.0.1/platform-linux/python/./python/classworks/password_generator.pyc
+/home/rapa/packages/jaehyukLee/1.0.1/platform-linux/python/./python/classworks/to_do_list.py
+/home/rapa/packages/jaehyukLee/1.0.1/platform-linux/python/./python/classworks/to_do_list.pyc
+/home/rapa/packages/jaehyukLee/1.0.1/platform-linux/python/./README.md
